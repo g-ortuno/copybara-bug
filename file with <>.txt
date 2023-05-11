@@ -1,0 +1,1 @@
+File with an invalid character in its name.
